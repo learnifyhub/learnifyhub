@@ -1,4 +1,5 @@
-### Hi there 👋
+### Latest News from JAMB, Post-UTME, WAEC, NECO, NABTEB, Scholarships, Post UME Past Questions, Study in Nigeria, Universities, Polytechnics and Nigerian Collage of Education
+learnifyhub.com.ng 👋
 
 <!--
 **learnifyhub/learnifyhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
